@@ -83,9 +83,9 @@ For a full list of dependencies, see [package.json](./package.json).
 4. Push to the branch (`git push origin feature/your-feature`)
 5. Open a Pull Request
 
-   ##team name:CultureConnect
+   ##team name:EcoTravellers
    ## team member:
-   1.Aayushy sirsolkar
+   1.Aayushy sirsolkar(author)
    2.supreet YVS(Team Leader)
    3.Sonu thakur
    4.Yashvi shah
