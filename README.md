@@ -1,7 +1,24 @@
-# Welcome to OnSpace AI
+# Jharkhand Tourism App 🏞️
 
-Onspace AI empowers anyone to turn ideas into powerful AI applications in minutes—no coding required. Our free, no-code platform enables effortless creation of custom AI apps; simply describe your vision and our agentic AI handles the rest. The onspace-app, built with React Native and Expo, demonstrates this capability—integrating popular third-party libraries to deliver seamless cross-platform performance across iOS, Android, and Web environments.
+An interactive tourism platform built to showcase the cultural, natural, and historical beauty of Jharkhand.  
+This project was developed as part of a hackathon to promote smart tourism with a modern user-friendly experience.
 
+---
+
+## ✨ Features
+- Interactive trip planner (choose days, budget, and interests)
+- Map integration for attractions
+- Guides and recommendations
+- Tourism marketplace
+- Responsive UI (works on web & mobile)
+
+---
+
+## 🚀 Tech Stack
+- **Frontend:** React Native (Expo), TypeScript
+- **Backend:** Node.js / Express (API for itinerary generation)
+- **Database:** JSON/mock data (can be extended)
+- **Other:** Context API for theming, reusable UI components
 ## Getting Started
 
 ### 1. Install Dependencies
