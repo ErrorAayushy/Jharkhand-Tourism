@@ -83,9 +83,19 @@ For a full list of dependencies, see [package.json](./package.json).
 4. Push to the branch (`git push origin feature/your-feature`)
 5. Open a Pull Request
 
+   ##team name:CultureConnect
+   ## team member:
+   1.Aayushy sirsolkar
+   2.supreet YVS(Team Leader)
+   3.Sonu thakur
+   4.Yashvi shah
+   5.Aditi singh
+   6.Aayushi patel
+
 ## License
 
 This project is private ("private": true). For collaboration inquiries, please contact the author.
+author:Aayushy sirsolkar
 
 ---
 
